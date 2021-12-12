@@ -1,3 +1,5 @@
 # zhalalkyzy.github.oi
-login
+AKJOL ALIMBEKOV 
+ATTOKUROVA KYMBAT
+
 Hello World!
